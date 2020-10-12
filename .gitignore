@@ -1,0 +1,9 @@
+
+.metadata
+node_modules
+webrtc_client/ca_bundle.crt
+webrtc_client/certificate.crt
+webrtc_client/private.key
+webrtc_server/private.key
+webrtc_server/certificate.crt
+webrtc_server/ca_bundle.crt
